@@ -113,6 +113,9 @@ pnpm dev
 pnpm build
 ```
 
+**Code Synchronization**
+Refer to the [Code Synchronization](https://docs.soybeanjs.cn/guide/sync) document.
+
 ## Ecosystem
 
 - [react-soybean-admin](https://github.com/mufeng889/react-soybean-admin): SoybeanAdmin based version of React.
