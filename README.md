@@ -138,6 +138,11 @@ pnpm dev
 pnpm build
 ```
 
+**代码同步**
+参考 [代码同步](https://docs.soybeanjs.cn/zh/guide/sync) 文档。
+
+```bash
+
 ## 周边生态
 
 - [react-soybean-admin](https://github.com/mufeng889/react-soybean-admin): 基于SoybeanAdmin的React版本.
